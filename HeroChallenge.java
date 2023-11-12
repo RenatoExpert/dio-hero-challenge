@@ -18,17 +18,17 @@ public class MyGame {
 		String level;
 		if(experience <= 1000) {
 			level = "Ferro";
-		} if else(experience <= 2000) {
+		} else if(experience <= 2000) {
 			level = "Bronze";
-		} if else(experience <= 5000) {
+		} else if(experience <= 5000) {
 			level = "Prata";
-		} if else(experiene <= 7000) {
+		} else if(experiene <= 7000) {
 			level = "Ouro";
-		} if else(experience <= 8000) {
+		} else if(experience <= 8000) {
 			level = "Platina";
-		} if else(experience <= 9000) {
+		} else if(experience <= 9000) {
 			level = "Ascendente";
-		} if else(experience <= 1000) {
+		} else if(experience <= 1000) {
 			level = "Imortal";
 		} else {
 			level = "Radiante";
