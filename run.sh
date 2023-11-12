@@ -1,2 +1,2 @@
-javac HeroChallenge.java
-java HeroChallenge
+javac MyGame.java
+java MyGame
